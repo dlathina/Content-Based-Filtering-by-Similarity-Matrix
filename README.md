@@ -7,6 +7,6 @@
 >#### **Question that can analysed from this data set**
 > 1. Movies which release in 2015 only
 > 2. Successful genres 
-> 3. Similarity Matrix from features vote_average and Successful Genre without normalization
-> 4. Similarity Matrix from features vote_average and Successful Genre with normalization
+> 3. Similarity Matrix from features vote_average and Successful Genre without scalling
+> 4. Similarity Matrix from features vote_average and Successful Genre with scalling
 > 5. Get Top 10 movies similar to Top 5 vote_average movies. 
